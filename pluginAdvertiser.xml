@@ -1955,6 +1955,11 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="CloudCodeCloudRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Cloud Run" pluginName="Cloud Code" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -1983,6 +1988,11 @@
                   <entry key="JavaScriptTestRunnerJest">
                     <value>
                       <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="JavaScriptTestRunnerKarma">
+                    <value>
+                      <FeaturePluginData displayName="Karma" pluginName="Karma" pluginId="Karma" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerProtractor">
@@ -2053,6 +2063,11 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="google-container-tools-skaffold-run-config">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Kubernetes" pluginName="Cloud Code" pluginId="com.google.gct.core" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
