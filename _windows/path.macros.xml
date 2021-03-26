@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MESSAGE" value="message" />
+  </component>
+</application>
